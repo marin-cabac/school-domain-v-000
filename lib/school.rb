@@ -2,11 +2,9 @@
 
 class School
   attr_accessor :school
-roaster=[]
+roaster={}
   def initialize(name)
     @school=name
-   
-
-  end
+     end
 
 end
