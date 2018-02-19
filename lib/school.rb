@@ -10,7 +10,7 @@ roster={}
      end
 
 def add_student(a,b)
-  @roster[b]=a
+  @roster[b]=[a]
 end
 
 end
