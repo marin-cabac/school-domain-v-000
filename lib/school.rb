@@ -3,7 +3,8 @@
 class School
   attr_accessor :name
 roaster={}
-  def initalize
+  def initalize(name)
+    @name=name
   roaster={}
 
   end
