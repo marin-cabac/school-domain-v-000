@@ -9,9 +9,15 @@ roster={}
     @roster = {}
      end
 
-def add_student(a,b)
+def add_student(n,g)
 
-  !(@roster.include?(a)) && @roster[b]=[a]
+  !(@roster.include?(n)) && @roster[g]<<n
 end
+#########################################
+def add_student(name, grade)
++    roster[grade] = [] unless roster[grade]
++    roster[grade] << name
++  end
 
+#########################################
 end
