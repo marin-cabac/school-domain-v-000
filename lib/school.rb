@@ -6,7 +6,7 @@ roster={}
   def initialize(name)
     @school=name
      end
-def roster(a,b)
-roster[:a]=b
-end
+#def roster(a,b)
+#roster[:a]=b
+#end
 end
