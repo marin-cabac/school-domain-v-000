@@ -12,6 +12,6 @@ def roster
 
 end
 def add_student(a,b)
-  roster[a]=b
+  @roster[a]=b
 end
 end
