@@ -9,4 +9,4 @@ roster={}
 def roster(a,b)
 roster[:a]=b
 end
-end 
+end
