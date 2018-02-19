@@ -6,7 +6,7 @@ class School
   def initialize(name)
 
     @school=name
-  roaster={}
+  roaster=[]
 
   end
 
