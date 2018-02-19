@@ -11,7 +11,7 @@ roster={}
 
 def add_student(a,b)
 
-  !(@roster.include?([b]a)) && @roster[b]=[a]
+  !(@roster.include?([b]=a)) && @roster[b]=[a]
 end
 
 end
