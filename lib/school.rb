@@ -8,7 +8,7 @@ class School
     @school=school
     roster={}
      end
-def roster 
+def roster
   
 end
 end
