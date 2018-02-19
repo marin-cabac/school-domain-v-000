@@ -13,5 +13,5 @@ def add_student(n,g)
  @roster ||= []   
   @roster[g]<<n
 end
- 
+
 end
