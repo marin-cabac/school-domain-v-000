@@ -5,7 +5,7 @@ class School
 roaster={}
   def initalize(name)
     @school=name
-  roaster 
+  roaster
 
   end
 
