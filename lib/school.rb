@@ -18,5 +18,10 @@ def grade(g)
   @roster[g]
 end
 ######################################
+def sort
+@roster.each{|k,v|v.sort!}  
+end 
+######################################
+
 
 end
