@@ -2,8 +2,9 @@
 
 class School
   attr_writer :name
-  roaster={}
+  
   def initalize
+  roaster={}  
 
   end
 end
