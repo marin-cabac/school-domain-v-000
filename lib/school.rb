@@ -1,10 +1,10 @@
 # code here!
 
 class School
-  attr_accessor :name
+  attr_accessor :school
 roaster={}
   def initalize(name)
-    @name=name
+    @school=name
   roaster 
 
   end
