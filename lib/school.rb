@@ -10,7 +10,7 @@ roster={}
      end
 
 def add_student(n,g)
- @roster[g]=[]  unless @roster[g]
+ @roster ||= []   
   @roster[g]<<n
 end
  
