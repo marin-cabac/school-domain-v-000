@@ -2,4 +2,4 @@
 
 class School
   attr_writer :name
-end 
+end
