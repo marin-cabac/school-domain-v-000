@@ -2,11 +2,11 @@
 
 class School
   attr_accessor :school
-roaster={}
+roster={}
   def initialize(name)
     @school=name
      end
-def roaster(a,b)
-roaster[:a]=b
+def roster(a,b)
+roster[:a]=b
 end
 end 
