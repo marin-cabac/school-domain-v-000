@@ -12,5 +12,5 @@ roster={}
 def add_student(a,b)
   @roster[b]=a
 end
- 
+
 end
