@@ -2,7 +2,7 @@
 
 class School
   attr_writer :name
-  def initalize(name)
-    @name=name
+  def initalize 
+     
   end
 end
