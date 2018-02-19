@@ -8,7 +8,7 @@ class School
     @school=school
     roster={}
      end
-#def roster(a,b)
-#roster[:a]=b
-#end
+def roster(a,b)
+roster[:a]=b
+end
 end
