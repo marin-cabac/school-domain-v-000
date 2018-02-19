@@ -2,9 +2,10 @@
 
 class School
   attr_accessor :school
-roster={}
-  def initialize(name)
-    @school=name
+
+  def initialize()
+    #@school=name
+    roster={}
      end
 #def roster(a,b)
 #roster[:a]=b
