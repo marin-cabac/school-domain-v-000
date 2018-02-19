@@ -7,6 +7,6 @@ roaster={}
     @school=name
      end
 def roaster(a,b)
-roaster[:a]=b  
+roaster[:a]=b
 end
 end 
