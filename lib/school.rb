@@ -10,8 +10,8 @@ roster={}
      end
 
 def add_student(n,g)
-roster[g]=[] unless roster[g]
-roster[g]<<n
+@roster[g]=[] unless @roster[g]
+@roster[g]<<n
 end
 
 #  !(@roster.include?(n)) && @roster[g]<<n
