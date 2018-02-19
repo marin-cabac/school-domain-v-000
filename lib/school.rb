@@ -13,7 +13,9 @@ def add_student(n,g)
   @roster[g]<<n
 end
 
-def grade
+def grade(g)
+  @roster[g]
+  
 end 
 
 end
