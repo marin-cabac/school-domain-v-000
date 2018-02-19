@@ -6,7 +6,7 @@ roster={}
   def initialize(school)
     #@school=name
     @school=school
-    roster={}
+    roster
      end
 =begin
 def roster
